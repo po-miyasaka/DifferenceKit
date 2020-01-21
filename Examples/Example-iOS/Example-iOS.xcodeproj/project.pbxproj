@@ -34,6 +34,7 @@
 		6BAE817922783EC80060866E /* RandomPlainCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BAE817822783EC80060866E /* RandomPlainCell.swift */; };
 		6BD9445D2136EDC100093E7A /* RandomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD9445C2136EDC100093E7A /* RandomViewController.swift */; };
 		6BD944602137062000093E7A /* RandomLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BD9445F2137062000093E7A /* RandomLabelView.swift */; };
+		D571A27723D753E400E8D82B /* DiffMiyashi.swift in Sources */ = {isa = PBXBuildFile; fileRef = D571A27623D753E400E8D82B /* DiffMiyashi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -103,6 +104,7 @@
 		6BAE817822783EC80060866E /* RandomPlainCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomPlainCell.swift; sourceTree = "<group>"; };
 		6BD9445C2136EDC100093E7A /* RandomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomViewController.swift; sourceTree = "<group>"; };
 		6BD9445F2137062000093E7A /* RandomLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomLabelView.swift; sourceTree = "<group>"; };
+		D571A27623D753E400E8D82B /* DiffMiyashi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiffMiyashi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 			isa = PBXGroup;
 			children = (
 				6B7EEDAC2251305400060872 /* NibLoadable.swift */,
+				D571A27623D753E400E8D82B /* DiffMiyashi.swift */,
 				6B7EEDAE2251309000060872 /* Reusable.swift */,
 				6B7EEDB02251315500060872 /* ReusableViewExtensions.swift */,
 				6B7EEDC6225142A500060872 /* StringExtensions.swift */,
@@ -329,6 +332,7 @@
 				6B956B842110B38700DE3D29 /* EmojiViewController.swift in Sources */,
 				6B7EEDAD2251305400060872 /* NibLoadable.swift in Sources */,
 				6B956B832110B38700DE3D29 /* HeaderFooterViewController.swift in Sources */,
+				D571A27723D753E400E8D82B /* DiffMiyashi.swift in Sources */,
 				6B7EEDB7225134FA00060872 /* HomeCell.swift in Sources */,
 				6B7EEDAF2251309000060872 /* Reusable.swift in Sources */,
 				6BD9445D2136EDC100093E7A /* RandomViewController.swift in Sources */,
